@@ -1,1 +1,3 @@
-# Some useful functions I want to make note of.
+# Function Library
+
+Some useful functions I want to make note of.
